@@ -1,0 +1,10 @@
+{
+  "main_video_path": "./common/assets/video/main-video.mp4",
+  "bg_image_path": "./common/assets/images/black-1920x1080.png",
+  "en": {
+    "general": {
+      "content_warning": "Content warning: please be advised that this video depicts bodily piercing.",
+      "touch_to_play": "Touch to start the video."
+    }
+  }
+}

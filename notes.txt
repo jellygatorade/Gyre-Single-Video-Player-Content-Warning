@@ -1,0 +1,2 @@
+npm start
+npx tailwindcss -i ./src/common/style/tailwind-input.css -o ./src/style/tailwind-compiled.css --watch
