@@ -532,6 +532,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   z-index: -1;
 }
 
+.z-\[-1000\] {
+  z-index: -1000;
+}
+
 .m-\[20px\] {
   margin: 20px;
 }
@@ -539,6 +543,16 @@ Ensure the default browser behavior of the `hidden` attribute.
 .my-\[1em\] {
   margin-top: 1em;
   margin-bottom: 1em;
+}
+
+.my-\[1rem\] {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.my-\[2rem\] {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .flex {
@@ -559,6 +573,18 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-\[60\%\] {
   width: 60%;
+}
+
+.w-\[70\%\] {
+  width: 70%;
+}
+
+.w-\[80\%\] {
+  width: 80%;
+}
+
+.w-\[75\%\] {
+  width: 75%;
 }
 
 .translate-y-\[-100\%\] {
@@ -583,6 +609,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
+.p-\[1rem\] {
+  padding: 1rem;
+}
+
+.p-\[0\.5rem\] {
+  padding: 0.5rem;
+}
+
 .font-CaseTextRegular {
   font-family: CaseText-Regular;
 }
@@ -603,6 +637,21 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .text-48px {
   font-size: 48px;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
 }
 
 .italic {
@@ -642,6 +691,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .duration-300 {
   transition-duration: 300ms;
+}
+
+.duration-1000 {
+  transition-duration: 1000ms;
 }
 
 @font-face {

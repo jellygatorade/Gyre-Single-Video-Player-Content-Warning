@@ -4,6 +4,7 @@ window.addEventListener("load", () => {
   // Content Warning - Touch to play
   domVars.homeBgImg = document.getElementById("home-bg-image");
   domVars.contentWarning = document.getElementById("content-warning");
+  domVars.exitNote = document.getElementById("exit-note");
   domVars.touchToPlay = document.getElementById("touch-to-play");
 
   // Video Player

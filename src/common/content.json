@@ -1,9 +1,10 @@
 {
-  "main_video_path": "./common/assets/video/main-video.mp4",
+  "main_video_path": "./common/assets/video/plan-to-achieve-escape-velocity.mp4",
   "bg_image_path": "./common/assets/images/black-1920x1080.png",
   "en": {
     "general": {
       "content_warning": "Content warning: please be advised that this video depicts bodily piercing.",
+      "exit_note": "You may exit the video at any time by tapping to reveal an &nbsp<i class=\"fas fa-times text-4xl\"></i>&nbsp in the upper right hand corner.",
       "touch_to_play": "Touch to start the video."
     }
   }
